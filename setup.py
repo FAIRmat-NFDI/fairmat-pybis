@@ -36,7 +36,6 @@ setup(
     packages=find_packages(),
     license="Apache Software License Version 2.0",
     install_requires=[
-        "pytest",
         "requests",
         "urllib3",
         "pandas",
